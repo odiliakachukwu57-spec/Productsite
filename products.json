@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "The Quiet Money Method",
+    "description": "A focused guide to building income quietly and sustainably, without the noise of typical money advice.",
+    "price": 15,
+    "image": "images/quiet-money-method.png",
+    "platform": "Payhip",
+    "link": "https://payhip.com/b/LdkW9"
+  },
+  {
+    "id": 2,
+    "title": "ETSY Seller Sales + Profit Tracker",
+    "description": "A ready-to-use dashboard for Etsy sellers to track sales, profit, and expenses in one place.",
+    "price": 12,
+    "image": "images/etsy-sales-tracker.png",
+    "platform": "Selar",
+    "link": "https://selar.com/m/odili-akachukwu1"
+  },
+  {
+    "id": 3,
+    "title": "Rapid Weight Loss for Beginners, Part 3",
+    "description": "A step-by-step guide covering fasting, home workouts, sleep, and managing stress and emotional eating.",
+    "price": 10,
+    "image": "images/rapid-weight-loss.png",
+    "platform": "Selar",
+    "link": "https://selar.com/m/odili-akachukwu1"
+  },
+  {
+    "id": 4,
+    "title": "Winning in Silence",
+    "description": "An ebook on building quiet discipline and long-term wins without seeking outside validation.",
+    "price": 10,
+    "image": "",
+    "platform": "Gumroad",
+    "link": "https://1029451046914.gumroad.com/l/bryqvz"
+  }
+]
